@@ -16,5 +16,6 @@ cd googlesub
 pip install serpapi && pip install google-search-results
 
 ```
--->then usage is very simple:
+-->then usage is very simple:/n
     python3 googlesub.py -u your__domain -t <your token>
+![image](https://github.com/user-attachments/assets/9dc78e3d-7d42-4fe2-954f-595dbb07b318)
