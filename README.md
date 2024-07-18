@@ -14,8 +14,11 @@ installation for any python running machine also termux hehe
 git clone https://github.com/dsad8dsakdjaiu/googlesub
 cd googlesub
 pip install serpapi && pip install google-search-results
-
+python3 googlesub.py -u (ur url) -t <grab a token from serpapi>
 ```
 -->then usage is very simple:/n
     python3 googlesub.py -u your__domain -t <your token>
 ![image](https://github.com/user-attachments/assets/9dc78e3d-7d42-4fe2-954f-595dbb07b318)
+
+related links:
+https://serpapi.com/
